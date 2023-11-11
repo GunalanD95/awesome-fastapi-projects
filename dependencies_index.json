@@ -19983,6 +19983,34 @@
         {
             "id": 4997,
             "name": "openai_functions_tool_retrieval_agent"
+        },
+        {
+            "id": 4998,
+            "name": "mplug_owl"
+        },
+        {
+            "id": 4999,
+            "name": "mplug_owl2"
+        },
+        {
+            "id": 5000,
+            "name": "rag_vectara_multiquery"
+        },
+        {
+            "id": 5001,
+            "name": "basic_critique_revise"
+        },
+        {
+            "id": 5002,
+            "name": "rag_timescale_conversation"
+        },
+        {
+            "id": 5003,
+            "name": "strsimpy"
+        },
+        {
+            "id": 5004,
+            "name": "html2image"
         }
     ]
 }
