@@ -20011,6 +20011,22 @@
         {
             "id": 5004,
             "name": "html2image"
+        },
+        {
+            "id": 5005,
+            "name": "gizmo_agent"
+        },
+        {
+            "id": 5006,
+            "name": "agent_executor"
+        },
+        {
+            "id": 5007,
+            "name": "write_prd_prompt"
+        },
+        {
+            "id": 5008,
+            "name": "dmd_app"
         }
     ]
 }
