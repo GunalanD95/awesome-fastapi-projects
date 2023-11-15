@@ -20183,6 +20183,298 @@
         {
             "id": 5047,
             "name": "exiftool"
+        },
+        {
+            "id": 5048,
+            "name": "sql_pgvector"
+        },
+        {
+            "id": 5049,
+            "name": "retrieval_agent"
+        },
+        {
+            "id": 5050,
+            "name": "usageaccountant"
+        },
+        {
+            "id": 5051,
+            "name": "middlewares"
+        },
+        {
+            "id": 5052,
+            "name": "openbb_oecd"
+        },
+        {
+            "id": 5053,
+            "name": "tokenterminal"
+        },
+        {
+            "id": 5054,
+            "name": "pandas_market_calendars"
+        },
+        {
+            "id": 5055,
+            "name": "darts"
+        },
+        {
+            "id": 5056,
+            "name": "detecta"
+        },
+        {
+            "id": 5057,
+            "name": "linearmodels"
+        },
+        {
+            "id": 5058,
+            "name": "openbb_intrinio"
+        },
+        {
+            "id": 5059,
+            "name": "openbb_seeking_alpha"
+        },
+        {
+            "id": 5060,
+            "name": "openbb_stockgrid"
+        },
+        {
+            "id": 5061,
+            "name": "quandl"
+        },
+        {
+            "id": 5062,
+            "name": "pywry"
+        },
+        {
+            "id": 5063,
+            "name": "openbb_charting"
+        },
+        {
+            "id": 5064,
+            "name": "intrinio_sdk"
+        },
+        {
+            "id": 5065,
+            "name": "openbb_fixedincome"
+        },
+        {
+            "id": 5066,
+            "name": "openbb"
+        },
+        {
+            "id": 5067,
+            "name": "openbb_tradingeconomics"
+        },
+        {
+            "id": 5068,
+            "name": "finnhub"
+        },
+        {
+            "id": 5069,
+            "name": "riskfolio"
+        },
+        {
+            "id": 5070,
+            "name": "finvizfinance"
+        },
+        {
+            "id": 5071,
+            "name": "financedatabase"
+        },
+        {
+            "id": 5072,
+            "name": "openbb_economy"
+        },
+        {
+            "id": 5073,
+            "name": "nixtlats"
+        },
+        {
+            "id": 5074,
+            "name": "openbb_alpha_vantage"
+        },
+        {
+            "id": 5075,
+            "name": "openbb_benzinga"
+        },
+        {
+            "id": 5076,
+            "name": "openbb_crypto"
+        },
+        {
+            "id": 5077,
+            "name": "openbb_finra"
+        },
+        {
+            "id": 5078,
+            "name": "openbb_fmp"
+        },
+        {
+            "id": 5079,
+            "name": "openbb_ultima"
+        },
+        {
+            "id": 5080,
+            "name": "finviz"
+        },
+        {
+            "id": 5081,
+            "name": "openbb_sec"
+        },
+        {
+            "id": 5082,
+            "name": "robin_stocks"
+        },
+        {
+            "id": 5083,
+            "name": "openbb_equity"
+        },
+        {
+            "id": 5084,
+            "name": "bt"
+        },
+        {
+            "id": 5085,
+            "name": "openbb_etf"
+        },
+        {
+            "id": 5086,
+            "name": "openbb_polygon"
+        },
+        {
+            "id": 5087,
+            "name": "openbb_econometrics"
+        },
+        {
+            "id": 5088,
+            "name": "openbb_technical"
+        },
+        {
+            "id": 5089,
+            "name": "openbb_provider"
+        },
+        {
+            "id": 5090,
+            "name": "mstarpy"
+        },
+        {
+            "id": 5091,
+            "name": "openbb_core"
+        },
+        {
+            "id": 5092,
+            "name": "openbb_wsj"
+        },
+        {
+            "id": 5093,
+            "name": "valinvest"
+        },
+        {
+            "id": 5094,
+            "name": "coinmarketcapapi"
+        },
+        {
+            "id": 5095,
+            "name": "openbb_biztoc"
+        },
+        {
+            "id": 5096,
+            "name": "openbb_yfinance"
+        },
+        {
+            "id": 5097,
+            "name": "random_user_agent"
+        },
+        {
+            "id": 5098,
+            "name": "openbb_fred"
+        },
+        {
+            "id": 5099,
+            "name": "fred"
+        },
+        {
+            "id": 5100,
+            "name": "openbb_nasdaq"
+        },
+        {
+            "id": 5101,
+            "name": "fundamentalanalysis"
+        },
+        {
+            "id": 5102,
+            "name": "arch"
+        },
+        {
+            "id": 5103,
+            "name": "tradingview_ta"
+        },
+        {
+            "id": 5104,
+            "name": "pmaw"
+        },
+        {
+            "id": 5105,
+            "name": "integration"
+        },
+        {
+            "id": 5106,
+            "name": "degiro_connector"
+        },
+        {
+            "id": 5107,
+            "name": "fredapi"
+        },
+        {
+            "id": 5108,
+            "name": "stocksera"
+        },
+        {
+            "id": 5109,
+            "name": "pandas_ta"
+        },
+        {
+            "id": 5110,
+            "name": "openbb_ecb"
+        },
+        {
+            "id": 5111,
+            "name": "docs"
+        },
+        {
+            "id": 5112,
+            "name": "i18n"
+        },
+        {
+            "id": 5113,
+            "name": "openbb_currency"
+        },
+        {
+            "id": 5114,
+            "name": "pythclient"
+        },
+        {
+            "id": 5115,
+            "name": "openbb_cboe"
+        },
+        {
+            "id": 5116,
+            "name": "oandapyV20"
+        },
+        {
+            "id": 5117,
+            "name": "nasdaqdatalink"
+        },
+        {
+            "id": 5118,
+            "name": "turbine_models"
+        },
+        {
+            "id": 5119,
+            "name": "mii"
+        },
+        {
+            "id": 5120,
+            "name": "autoevals"
         }
     ]
 }
