@@ -20487,6 +20487,26 @@
         {
             "id": 5123,
             "name": "importmagic"
+        },
+        {
+            "id": 5124,
+            "name": "chain_of_note_wiki"
+        },
+        {
+            "id": 5125,
+            "name": "aiofile"
+        },
+        {
+            "id": 5126,
+            "name": "rplife"
+        },
+        {
+            "id": 5127,
+            "name": "openbb_derivatives"
+        },
+        {
+            "id": 5128,
+            "name": "openbb_tiingo"
         }
     ]
 }
