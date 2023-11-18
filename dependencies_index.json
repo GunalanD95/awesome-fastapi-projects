@@ -20507,6 +20507,30 @@
         {
             "id": 5128,
             "name": "openbb_tiingo"
+        },
+        {
+            "id": 5129,
+            "name": "rag_multi_index_router"
+        },
+        {
+            "id": 5130,
+            "name": "rag_multi_index_fusion"
+        },
+        {
+            "id": 5131,
+            "name": "rocksdict"
+        },
+        {
+            "id": 5132,
+            "name": "openbb_government_us"
+        },
+        {
+            "id": 5133,
+            "name": "glmtuner"
+        },
+        {
+            "id": 5134,
+            "name": "template_manager"
         }
     ]
 }
