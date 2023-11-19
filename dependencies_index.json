@@ -20531,6 +20531,50 @@
         {
             "id": 5134,
             "name": "template_manager"
+        },
+        {
+            "id": 5135,
+            "name": "OTXv2"
+        },
+        {
+            "id": 5136,
+            "name": "whois"
+        },
+        {
+            "id": 5137,
+            "name": "ivre"
+        },
+        {
+            "id": 5138,
+            "name": "hammock"
+        },
+        {
+            "id": 5139,
+            "name": "ipwhois"
+        },
+        {
+            "id": 5140,
+            "name": "pymisp"
+        },
+        {
+            "id": 5141,
+            "name": "pypdns"
+        },
+        {
+            "id": 5142,
+            "name": "maclookup"
+        },
+        {
+            "id": 5143,
+            "name": "timesketch_api_client"
+        },
+        {
+            "id": 5144,
+            "name": "jdatetime"
+        },
+        {
+            "id": 5145,
+            "name": "django_htmx"
         }
     ]
 }
