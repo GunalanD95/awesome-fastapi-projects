@@ -20731,6 +20731,26 @@
         {
             "id": 5184,
             "name": "your_prisma_module"
+        },
+        {
+            "id": 5185,
+            "name": "box"
+        },
+        {
+            "id": 5186,
+            "name": "lavis"
+        },
+        {
+            "id": 5187,
+            "name": "tika"
+        },
+        {
+            "id": 5188,
+            "name": "apps"
+        },
+        {
+            "id": 5189,
+            "name": "vector_quantize_pytorch"
         }
     ]
 }
