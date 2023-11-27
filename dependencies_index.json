@@ -20751,6 +20751,38 @@
         {
             "id": 5189,
             "name": "vector_quantize_pytorch"
+        },
+        {
+            "id": 5190,
+            "name": "skeleton_of_thought"
+        },
+        {
+            "id": 5191,
+            "name": "stmol"
+        },
+        {
+            "id": 5192,
+            "name": "wavio"
+        },
+        {
+            "id": 5193,
+            "name": "contractions"
+        },
+        {
+            "id": 5194,
+            "name": "biotite"
+        },
+        {
+            "id": 5195,
+            "name": "py3Dmol"
+        },
+        {
+            "id": 5196,
+            "name": "keyphrase_vectorizers"
+        },
+        {
+            "id": 5197,
+            "name": "braintrust"
         }
     ]
 }
