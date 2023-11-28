@@ -20783,6 +20783,34 @@
         {
             "id": 5197,
             "name": "braintrust"
+        },
+        {
+            "id": 5198,
+            "name": "rag_opensearch"
+        },
+        {
+            "id": 5199,
+            "name": "acl"
+        },
+        {
+            "id": 5200,
+            "name": "pydata_sphinx_theme"
+        },
+        {
+            "id": 5201,
+            "name": "sample_components"
+        },
+        {
+            "id": 5202,
+            "name": "benchmarking"
+        },
+        {
+            "id": 5203,
+            "name": "video_summarizer"
+        },
+        {
+            "id": 5204,
+            "name": "yake"
         }
     ]
 }
