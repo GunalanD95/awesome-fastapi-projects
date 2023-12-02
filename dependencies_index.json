@@ -20979,6 +20979,22 @@
         {
             "id": 5246,
             "name": "sslpsk_pmd3"
+        },
+        {
+            "id": 5247,
+            "name": "ibm_watson_machine_learning"
+        },
+        {
+            "id": 5248,
+            "name": "rag_ollama_multi_query"
+        },
+        {
+            "id": 5249,
+            "name": "paddleslim_ops"
+        },
+        {
+            "id": 5250,
+            "name": "streamlit_modal"
         }
     ]
 }
