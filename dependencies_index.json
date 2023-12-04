@@ -20999,6 +20999,18 @@
         {
             "id": 5251,
             "name": "aioprometheus"
+        },
+        {
+            "id": 5252,
+            "name": "fastui"
+        },
+        {
+            "id": 5253,
+            "name": "hologres_vector"
+        },
+        {
+            "id": 5254,
+            "name": "chain_retriever"
         }
     ]
 }
