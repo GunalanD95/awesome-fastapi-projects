@@ -21019,6 +21019,14 @@
         {
             "id": 5256,
             "name": "steamspypi"
+        },
+        {
+            "id": 5257,
+            "name": "rag_chroma_multi_modal"
+        },
+        {
+            "id": 5258,
+            "name": "rag_google_cloud_vertexai_search"
         }
     ]
 }
