@@ -21995,6 +21995,42 @@
         {
             "id": 5500,
             "name": "mock_llm"
+        },
+        {
+            "id": 5501,
+            "name": "langchain_community"
+        },
+        {
+            "id": 5502,
+            "name": "n"
+        },
+        {
+            "id": 5503,
+            "name": "inline_snapshot"
+        },
+        {
+            "id": 5504,
+            "name": "blessed"
+        },
+        {
+            "id": 5505,
+            "name": "codefind"
+        },
+        {
+            "id": 5506,
+            "name": "xtconfig"
+        },
+        {
+            "id": 5507,
+            "name": "ovld"
+        },
+        {
+            "id": 5508,
+            "name": "stk"
+        },
+        {
+            "id": 5509,
+            "name": "megablocks"
         }
     ]
 }
