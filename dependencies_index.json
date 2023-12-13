@@ -22031,6 +22031,38 @@
         {
             "id": 5509,
             "name": "megablocks"
+        },
+        {
+            "id": 5510,
+            "name": "demjson3"
+        },
+        {
+            "id": 5511,
+            "name": "board"
+        },
+        {
+            "id": 5512,
+            "name": "chainlit_client"
+        },
+        {
+            "id": 5513,
+            "name": "fastapi_sso"
+        },
+        {
+            "id": 5514,
+            "name": "fastapi_offline"
+        },
+        {
+            "id": 5515,
+            "name": "simple_chat"
+        },
+        {
+            "id": 5516,
+            "name": "llm_eval_plotly"
+        },
+        {
+            "id": 5517,
+            "name": "nextpy_chat"
         }
     ]
 }
