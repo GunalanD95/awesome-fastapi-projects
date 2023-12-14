@@ -22063,6 +22063,42 @@
         {
             "id": 5517,
             "name": "nextpy_chat"
+        },
+        {
+            "id": 5518,
+            "name": "langchain_google_genai"
+        },
+        {
+            "id": 5519,
+            "name": "rag_chroma_multi_modal_multi_vector"
+        },
+        {
+            "id": 5520,
+            "name": "rag_gemini_multi_modal"
+        },
+        {
+            "id": 5521,
+            "name": "tenseal"
+        },
+        {
+            "id": 5522,
+            "name": "pyarrow_hotfix"
+        },
+        {
+            "id": 5523,
+            "name": "mypy_boto3_logs"
+        },
+        {
+            "id": 5524,
+            "name": "dotagent"
+        },
+        {
+            "id": 5525,
+            "name": "kanaries_track"
+        },
+        {
+            "id": 5526,
+            "name": "eval_config"
         }
     ]
 }
