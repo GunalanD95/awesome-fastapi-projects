@@ -22231,6 +22231,34 @@
         {
             "id": 5559,
             "name": "libsql_client"
+        },
+        {
+            "id": 5560,
+            "name": "sql_research_assistant"
+        },
+        {
+            "id": 5561,
+            "name": "lightning_launcher"
+        },
+        {
+            "id": 5562,
+            "name": "haystack_bm25"
+        },
+        {
+            "id": 5563,
+            "name": "celpy"
+        },
+        {
+            "id": 5564,
+            "name": "safe_redirect_url"
+        },
+        {
+            "id": 5565,
+            "name": "retrieval_chain"
+        },
+        {
+            "id": 5566,
+            "name": "sfast"
         }
     ]
 }
