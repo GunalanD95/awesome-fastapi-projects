@@ -22511,6 +22511,18 @@
         {
             "id": 5629,
             "name": "exp"
+        },
+        {
+            "id": 5630,
+            "name": "misc"
+        },
+        {
+            "id": 5631,
+            "name": "mss"
+        },
+        {
+            "id": 5632,
+            "name": "streamdiffusion"
         }
     ]
 }
