@@ -22523,6 +22523,18 @@
         {
             "id": 5632,
             "name": "streamdiffusion"
+        },
+        {
+            "id": 5633,
+            "name": "rebyte_langchain"
+        },
+        {
+            "id": 5634,
+            "name": "whisperx"
+        },
+        {
+            "id": 5635,
+            "name": "jsonschema_pydantic"
         }
     ]
 }
