@@ -22535,6 +22535,42 @@
         {
             "id": 5635,
             "name": "jsonschema_pydantic"
+        },
+        {
+            "id": 5636,
+            "name": "lr"
+        },
+        {
+            "id": 5637,
+            "name": "multi_router"
+        },
+        {
+            "id": 5638,
+            "name": "rule_router"
+        },
+        {
+            "id": 5639,
+            "name": "fin_qa"
+        },
+        {
+            "id": 5640,
+            "name": "llmchain"
+        },
+        {
+            "id": 5641,
+            "name": "doc_treev1"
+        },
+        {
+            "id": 5642,
+            "name": "type3"
+        },
+        {
+            "id": 5643,
+            "name": "allure"
+        },
+        {
+            "id": 5644,
+            "name": "backorder"
         }
     ]
 }
