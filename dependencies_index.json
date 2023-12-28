@@ -22587,6 +22587,22 @@
         {
             "id": 5648,
             "name": "mamba_ssm"
+        },
+        {
+            "id": 5649,
+            "name": "fmha_triton"
+        },
+        {
+            "id": 5650,
+            "name": "run_hf"
+        },
+        {
+            "id": 5651,
+            "name": "hf_gpt_convert"
+        },
+        {
+            "id": 5652,
+            "name": "kaldialign"
         }
     ]
 }
