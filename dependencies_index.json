@@ -22615,6 +22615,50 @@
         {
             "id": 5655,
             "name": "dropbox"
+        },
+        {
+            "id": 5656,
+            "name": "pymdstat"
+        },
+        {
+            "id": 5657,
+            "name": "influxdb_client"
+        },
+        {
+            "id": 5658,
+            "name": "influxdb"
+        },
+        {
+            "id": 5659,
+            "name": "pySMART"
+        },
+        {
+            "id": 5660,
+            "name": "potsdb"
+        },
+        {
+            "id": 5661,
+            "name": "sparklines"
+        },
+        {
+            "id": 5662,
+            "name": "bernhard"
+        },
+        {
+            "id": 5663,
+            "name": "graphitesend"
+        },
+        {
+            "id": 5664,
+            "name": "batinfo"
+        },
+        {
+            "id": 5665,
+            "name": "pycouchdb"
+        },
+        {
+            "id": 5666,
+            "name": "pygal"
         }
     ]
 }
