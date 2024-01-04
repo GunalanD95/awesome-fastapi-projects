@@ -22735,6 +22735,78 @@
         {
             "id": 5685,
             "name": "pyrubberband"
+        },
+        {
+            "id": 5686,
+            "name": "glue_eventbridge_lambda_cdk"
+        },
+        {
+            "id": 5687,
+            "name": "awscrt"
+        },
+        {
+            "id": 5688,
+            "name": "sfn_comprehend_sdk"
+        },
+        {
+            "id": 5689,
+            "name": "s3transfer"
+        },
+        {
+            "id": 5690,
+            "name": "svlsland"
+        },
+        {
+            "id": 5691,
+            "name": "cloudfront_lambda_edge_cdk_python"
+        },
+        {
+            "id": 5692,
+            "name": "eventbridge_scheduler_ssm_cdk_python"
+        },
+        {
+            "id": 5693,
+            "name": "lambda_s3_translate_cdk"
+        },
+        {
+            "id": 5694,
+            "name": "aws_xray_sdk"
+        },
+        {
+            "id": 5695,
+            "name": "lambda_sqs_cdk"
+        },
+        {
+            "id": 5696,
+            "name": "rds_sns_event_notification_cdk_python"
+        },
+        {
+            "id": 5697,
+            "name": "cdk_nag"
+        },
+        {
+            "id": 5698,
+            "name": "vsam_to_dynamo"
+        },
+        {
+            "id": 5699,
+            "name": "sfn_athena_cdk_python"
+        },
+        {
+            "id": 5700,
+            "name": "jaxtyping"
+        },
+        {
+            "id": 5701,
+            "name": "pygetwindow"
+        },
+        {
+            "id": 5702,
+            "name": "ewmh"
+        },
+        {
+            "id": 5703,
+            "name": "pywinctl"
         }
     ]
 }
