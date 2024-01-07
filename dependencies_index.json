@@ -22827,6 +22827,34 @@
         {
             "id": 5708,
             "name": "memcache"
+        },
+        {
+            "id": 5709,
+            "name": "call_llm"
+        },
+        {
+            "id": 5710,
+            "name": "wenxin_llm"
+        },
+        {
+            "id": 5711,
+            "name": "qa_chain"
+        },
+        {
+            "id": 5712,
+            "name": "zhipuai_llm"
+        },
+        {
+            "id": 5713,
+            "name": "spark_llm"
+        },
+        {
+            "id": 5714,
+            "name": "create_db"
+        },
+        {
+            "id": 5715,
+            "name": "zhipuai_embedding"
         }
     ]
 }
