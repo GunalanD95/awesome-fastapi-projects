@@ -28003,6 +28003,46 @@
         {
             "id": 7002,
             "name": "aifs"
+        },
+        {
+            "id": 7003,
+            "name": "gruut"
+        },
+        {
+            "id": 7004,
+            "name": "feature_extractor"
+        },
+        {
+            "id": 7005,
+            "name": "text"
+        },
+        {
+            "id": 7006,
+            "name": "AR"
+        },
+        {
+            "id": 7007,
+            "name": "dspy"
+        },
+        {
+            "id": 7008,
+            "name": "lmql"
+        },
+        {
+            "id": 7009,
+            "name": "flashinfer"
+        },
+        {
+            "id": 7010,
+            "name": "sglang"
+        },
+        {
+            "id": 7011,
+            "name": "vmcp"
+        },
+        {
+            "id": 7012,
+            "name": "ultraanalytics"
         }
     ]
 }
