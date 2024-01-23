@@ -28063,6 +28063,70 @@
         {
             "id": 7017,
             "name": "sqlbag"
+        },
+        {
+            "id": 7018,
+            "name": "safe_store"
+        },
+        {
+            "id": 7019,
+            "name": "read"
+        },
+        {
+            "id": 7020,
+            "name": "lollms"
+        },
+        {
+            "id": 7021,
+            "name": "ascii_colors"
+        },
+        {
+            "id": 7022,
+            "name": "tkVideoPlayer"
+        },
+        {
+            "id": 7023,
+            "name": "tritonserver"
+        },
+        {
+            "id": 7024,
+            "name": "sshfs"
+        },
+        {
+            "id": 7025,
+            "name": "sagemaker_ssh_helper"
+        },
+        {
+            "id": 7026,
+            "name": "pyTigerGraph"
+        },
+        {
+            "id": 7027,
+            "name": "openbb_finviz"
+        },
+        {
+            "id": 7028,
+            "name": "riva"
+        },
+        {
+            "id": 7029,
+            "name": "lazydocs"
+        },
+        {
+            "id": 7030,
+            "name": "our_argparse"
+        },
+        {
+            "id": 7031,
+            "name": "localized_llms"
+        },
+        {
+            "id": 7032,
+            "name": "angle_emb"
+        },
+        {
+            "id": 7033,
+            "name": "messaging"
         }
     ]
 }
