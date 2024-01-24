@@ -28127,6 +28127,30 @@
         {
             "id": 7033,
             "name": "messaging"
+        },
+        {
+            "id": 7034,
+            "name": "tensorrt_llm_code"
+        },
+        {
+            "id": 7035,
+            "name": "chatlab"
+        },
+        {
+            "id": 7036,
+            "name": "PIl"
+        },
+        {
+            "id": 7037,
+            "name": "gigachat"
+        },
+        {
+            "id": 7038,
+            "name": "multimodal_concat"
+        },
+        {
+            "id": 7039,
+            "name": "opensmile"
         }
     ]
 }
