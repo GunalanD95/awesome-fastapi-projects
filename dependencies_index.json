@@ -28187,6 +28187,54 @@
         {
             "id": 7048,
             "name": "cdk"
+        },
+        {
+            "id": 7049,
+            "name": "asgi"
+        },
+        {
+            "id": 7050,
+            "name": "exa_py"
+        },
+        {
+            "id": 7051,
+            "name": "langchain_exa"
+        },
+        {
+            "id": 7052,
+            "name": "tot"
+        },
+        {
+            "id": 7053,
+            "name": "agentops"
+        },
+        {
+            "id": 7054,
+            "name": "hqq"
+        },
+        {
+            "id": 7055,
+            "name": "awq"
+        },
+        {
+            "id": 7056,
+            "name": "alpaca_lora_4bit"
+        },
+        {
+            "id": 7057,
+            "name": "autogenbench"
+        },
+        {
+            "id": 7058,
+            "name": "haystack_integrations"
+        },
+        {
+            "id": 7059,
+            "name": "trieve_python_client"
+        },
+        {
+            "id": 7060,
+            "name": "trieve"
         }
     ]
 }
