@@ -28235,6 +28235,10 @@
         {
             "id": 7060,
             "name": "trieve"
+        },
+        {
+            "id": 7061,
+            "name": "langgraph"
         }
     ]
 }
