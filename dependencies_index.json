@@ -28291,6 +28291,30 @@
         {
             "id": 7074,
             "name": "wikibase_rest_api_client"
+        },
+        {
+            "id": 7075,
+            "name": "flash_attention"
+        },
+        {
+            "id": 7076,
+            "name": "ionic_langchain"
+        },
+        {
+            "id": 7077,
+            "name": "kr8s"
+        },
+        {
+            "id": 7078,
+            "name": "clarifai"
+        },
+        {
+            "id": 7079,
+            "name": "bedrock_agent"
+        },
+        {
+            "id": 7080,
+            "name": "app_old"
         }
     ]
 }
