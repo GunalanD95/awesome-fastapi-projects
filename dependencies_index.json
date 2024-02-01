@@ -28347,6 +28347,54 @@
         {
             "id": 7088,
             "name": "huggingface"
+        },
+        {
+            "id": 7089,
+            "name": "langchain_nomic"
+        },
+        {
+            "id": 7090,
+            "name": "sentry_ophio"
+        },
+        {
+            "id": 7091,
+            "name": "news"
+        },
+        {
+            "id": 7092,
+            "name": "adafruit_ticks"
+        },
+        {
+            "id": 7093,
+            "name": "supervisor"
+        },
+        {
+            "id": 7094,
+            "name": "llm_data"
+        },
+        {
+            "id": 7095,
+            "name": "streamlit_analytics"
+        },
+        {
+            "id": 7096,
+            "name": "streamlit_feedback"
+        },
+        {
+            "id": 7097,
+            "name": "retriever"
+        },
+        {
+            "id": 7098,
+            "name": "bot_config"
+        },
+        {
+            "id": 7099,
+            "name": "ultralytics_example"
+        },
+        {
+            "id": 7100,
+            "name": "autotemp"
         }
     ]
 }
